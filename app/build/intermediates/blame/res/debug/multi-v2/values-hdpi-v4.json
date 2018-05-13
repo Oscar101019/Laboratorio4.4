@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/oscar/Moviles/Unidad4/Laboratorio4.4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/oscar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/dae30167a6e1e3b8bf9f7d28c7b5bf0c/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
